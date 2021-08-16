@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>c:/DD_mods/BuffedCrusader/data/</ModDataPath>
+	<Title>Buffed Crusader</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Class Change</Tags>
+		<Tags>Crusader</Tags>
+	</Tags>
+	<ItemDescription>Slightly buffs the Crusaders skills by adding the Unholy Killer effect (The same effect Smite and Holy Lance have) to Zealous Accusation, as well as allowing Holy Lance to hit Rank 1. 
+
+Also Buffs the Crusaders Crimson Court trinket set by adding +15% Deathblow Resist to the glittering Spaulders and by adding +25% Virtue Chance to the Set Bonus.
+
+This is my first mod, please tell me if it&apos;s glitchy or if you find it too OP.</ItemDescription>
+	<PublishedFileId>1469729001</PublishedFileId>
+</project>
+

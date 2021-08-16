@@ -1,0 +1,8 @@
+dlc/580100_crimson_court/features/crimson_court/shared/buffs/BuffedCrusader.buffs.json 812
+dlc/580100_crimson_court/features/crimson_court/trinkets/BuffedCrusader.entries.trinkets.json 606
+heroes/crusader/crusader.info.darkest 7772
+shared/buffs/BuffedCrusader.buffs.json 812
+trinkets/buffedcrusader.sets.trinkets.json 2632
+modfiles.txt 336
+preview_icon.png 35703
+project.xml 1032

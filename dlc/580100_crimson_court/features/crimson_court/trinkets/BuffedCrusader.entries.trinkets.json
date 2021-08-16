@@ -1,0 +1,24 @@
+{
+   "entries":
+   [
+      {
+         "id" : "cc_set_cru_glittering_spaulders",
+         "buffs" : 
+         [
+            "TRINKET_cru_glittering_spaulders_PROT_B1",
+            "DEATHBLOWRESIST15",
+            "TRINKET_cru_glittering_spaulders_STRESSDMGREC_B1",
+            "TRINKET_cru_glittering_spaulders_SPD_D1"
+         ],
+         "hero_class_requirements":
+         [
+            "crusader"
+         ],
+         "set_id" : "cc_cru",
+         "rarity" : "crimson_court",
+         "price" : 50000,
+         "limit" : 1,
+         "origin_dungeon" : "courtyard"
+      }
+   ]
+}
